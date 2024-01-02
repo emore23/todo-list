@@ -39,5 +39,5 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ## 📄 Deploy
 
-* [Vercel](https://feedback-widget-sepia.vercel.app/) 
+* [Vercel](https://todo-list-chi-ebon.vercel.app/) 
 
