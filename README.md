@@ -1,4 +1,4 @@
-# Feedback Widget
+# To-do List
 
 > Esse projeto é o Desafio 01 - Praticando os conceitos do ReactJS - Pela Rocketseat.
  	</br>
